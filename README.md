@@ -5,6 +5,30 @@
 
 ### 🛠 Stack
 
-| Frontend | Backend | Dev tools |
-|:-:|:-:|:-:|
-| <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,swift&perline=4&theme=dark" /><br/><img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=swift&logoColor=white"/> | <img src="https://skillicons.dev/icons?i=python,fastapi&perline=2&theme=dark" /><br/><img src="https://img.shields.io/badge/SQL-336791?style=flat&logoColor=white"/> | <img src="https://skillicons.dev/icons?i=git,docker,vscode,figma&perline=2&theme=dark" /><br/><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white"/> |
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,swift&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=swift&logoColor=white" />
+</p>
+
+**Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white" />
+</p>
+
+**Dev tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,vscode,figma&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
+</p>
