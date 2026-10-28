@@ -5,8 +5,6 @@
 
 ### 🛠 Stack
 
-### 🛠 Stack
-
 **Frontend**
 
 <p>
