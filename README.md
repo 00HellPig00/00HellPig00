@@ -8,7 +8,7 @@
 **Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,swift&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,swift&theme=dark" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white" />
@@ -18,7 +18,7 @@
 **Backend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,next.js,postgres&theme=dark" />
 </p>
 
 **Dev tools**
