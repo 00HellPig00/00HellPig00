@@ -14,13 +14,11 @@
   <img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=swift&logoColor=white" />
 </p>
-
 **Backend**
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,postgres&theme=dark" />
 </p>
-
 **Dev tools**
 
 <p>
