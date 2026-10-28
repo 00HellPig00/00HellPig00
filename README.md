@@ -18,7 +18,7 @@
 **Backend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,next.js,postgres&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,postgres&theme=dark" />
 </p>
 
 **Dev tools**
