@@ -28,4 +28,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="48" />
 </p>
 
-## Learning mobile develop (IOS) :)
+Learning mobile develop (IOS) :)
