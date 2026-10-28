@@ -27,3 +27,5 @@
   <img src="https://skillicons.dev/icons?i=git,docker,vscode,figma&theme=dark" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="48" />
 </p>
+
+## Learning mobile develop (IOS) :)
